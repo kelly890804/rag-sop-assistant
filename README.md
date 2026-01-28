@@ -51,6 +51,19 @@ RAG SOP網頁小幫手/
 - **LLM 推論服務**:透過 Ollama 進行地端大型語言模型推論
 - **文件來源**:SOP PDF 文件
 
+### 1️⃣ 查詢介面
+
+![Query Input](images/demo_query.png)
+
+### 2️⃣ 回答結果與來源標示
+
+![Answer with Source](images/demo_answer.png)
+
+
+### 3️⃣ 多科室查詢示意
+
+![Multi-department Routing](images/demo_routing.png)
+
 ## 功能說明
 - **多種查詢模式** :
 - 🤖 不分科室查詢：系統自動判斷科室並回應，適合不熟悉 SOP 分工的使用者
