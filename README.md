@@ -33,9 +33,9 @@ RAG SOP網頁小幫手/
 ├── data/                    # 數據目錄(新增)
 │   ├── knowledge_base/      # 知識庫文件夾
 │   └── temp/                # 臨時文件夾
-│   └── sop_docs/            # 大數據中心SOP PDF檔案
-│   └── 會計室SOP             # 會計室SOP PDF檔案
-│   └── feedback             #  使用者回饋紀錄（Excel）
+│   └── sop_docs/            # 科室1 SOP PDF檔案
+│   └── 會計室SOP             # 科室2 SOP PDF檔案
+│   └── feedback             # 使用者回饋紀錄（Excel）
 ├── config.py                # 全局配置文件(更新)
 ├── manage.py                # Django管理
 ├── run_jarvis.py            # 統一啟動(更新)
